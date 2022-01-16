@@ -17,6 +17,7 @@ namespace Laundry_shop_manager
     {
         
         /*string path2 = @"C:\Users\ASUS\OneDrive\BTL_C#\Laundry_shop_manager\Laundry_shop_manager\image\";*/
+        //Edit
         private static fHome instance;
         /*private int id_nv = 1;*/
         public static fHome Instance 
